@@ -1,4 +1,5 @@
-Links de dowloads dos programas:
-1.
-2.
-3.
+Links de dowloads dos programas: https://git-scm.com/downloads
+1. Utilize o GIT Bash para fazer as primeiras configurações
+2. Aprender alguns codigos e instruções do Git
+3.E Organizar eles para que deixe seu repositorio organizado
+
